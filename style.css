@@ -18,7 +18,7 @@ header {
 .languages{
     color:rgb(255, 0, 0);
     text-align: center;
-
+    list-style:none;
     border: 5px black outset;
     background-color: darksalmon;
     text-align: center;
