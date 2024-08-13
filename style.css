@@ -1,0 +1,51 @@
+body{
+
+    background-color:rgb(255, 255, 254);
+    backface-visibility: visible;
+    display:flex;
+    text-align: center;
+    justify-content: center;
+ 
+    
+}
+
+header {
+        
+    text-align:center;
+        
+}
+
+.languages{
+    color:rgb(255, 0, 0);
+    text-align: center;
+
+    border: 5px black outset;
+    background-color: darksalmon;
+    text-align: center;
+    
+    text-decoration:none;
+    padding: 0%;
+}
+
+.a{
+
+    color:white;
+    background-color: rgb(205, 132, 43);
+    border: 5px black outset;
+    
+}
+.d
+{
+    color:chocolate;
+    text-align: center;
+    border: 5px black outset;
+
+
+}
+.b
+{
+    border: 1px solid black;
+    justify-content:last baseline;
+    width: 800px;
+  
+}
